@@ -1,6 +1,8 @@
 # wheel-of-emotions
 Content for Mu Labs and Modern Mantra collaborative interactive earth/human voxel cube projection map project
 
+![Emotional Wheel](ReferenceImages/mu-mantra-wheel-of-emotions.png)
+
 ---
 
 Emotions are mapped inside of the `WheelOfEmotionsContent` Directory...
