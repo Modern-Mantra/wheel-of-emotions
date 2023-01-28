@@ -3,6 +3,8 @@ Content for Mu Labs and Modern Mantra collaborative interactive earth/human voxe
 
 ---
 
+Cube Output = 1280px x 720px
+
 Emotions are mapped inside of the `WheelOfEmotionsContent` Directory...
 
 Each directory contained within maps to the following emotions...
